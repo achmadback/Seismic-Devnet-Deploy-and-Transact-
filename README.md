@@ -1,7 +1,6 @@
 # Seismic-Devnet-Deploy-and-Transact
 
-Req after doing deploy.sh and transact.sh
-Faucet https://faucet-2.seismicdev.net
+Req Faucet after doing deploy.sh and transact.sh https://faucet-2.seismicdev.net
 
 
 Explorer
