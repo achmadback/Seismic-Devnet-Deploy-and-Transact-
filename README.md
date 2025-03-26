@@ -23,8 +23,7 @@ curl -L \
 source ~/.bashrc
 ```
 ```
-sudo apt update && sudo apt install -y build-essential
-sudo apt install cargo -y
+sudo apt update && sudo apt install -y build-essential cargo
 ```
 ```
 sfoundryup 
